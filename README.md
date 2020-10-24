@@ -2,5 +2,5 @@
  ![brunodev-alura](https://user-images.githubusercontent.com/54913406/91229481-5167e100-e700-11ea-864d-f8acda4590a6.jpg)
 
 
-# Aula 01 de 04
+# Aula
 - Exercício de impressão em tela de conteúdo dinâmico com função.
